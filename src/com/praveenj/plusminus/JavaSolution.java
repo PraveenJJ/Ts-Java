@@ -2,6 +2,9 @@ package com.praveenj.plusminus;
 
 import java.util.Scanner;
 
+/**
+ * @see <a href="https://www.hackerrank.com/challenges/plus-minus/problem">Hackerrank link</a>
+ */
 public class JavaSolution {
 
     public static void main(String[] args) {
