@@ -2,6 +2,9 @@ package com.praveenj.simplearraysum;
 
 import java.util.Scanner;
 
+/**
+ * @see <a href="https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true">Hackerrank Link</a>
+ */
 public class JavaSolution {
 
     public static void main(String[] args) {
